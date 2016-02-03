@@ -12,6 +12,16 @@
 其中，他也參考了 [台大碩博士論文LaTeX範本](https://code.google.com/p/ntu-thesis-latex-template/)。
 最後則由 [shaform](https://github.com/shaform) 在撰寫論文期間又做了些許更動。
 
+目前本版本整合了以下幾個 repo 的修改：
+
+- [hsnusonic/ntu-thesis]
+- [shaform/ntu-thesis]
+- [tzhuan/ntu-thesis]
+
+[hsnusonic/ntu-thesis]: https://github.com/hsnusonic/ntu-thesis
+[shaform/ntu-thesis]: https://github.com/shaform/ntu-thesis/
+[tzhuan/ntu-thesis]: https://github.com/tzhuan/ntu-thesis
+
 
 下載
 ----------
