@@ -25,7 +25,15 @@
 
 % Set the default fonts
 \setmainfont{Times New Roman}
-\setCJKmainfont{標楷體}
+% On OSX, use font name Kaiti TC which has bold font support.
+% \setCJKmainfont[
+%    BoldFont={Kaiti TC Bold}
+%]{Kaiti TC}
+% The font family from OSX is not strictly compatible with that from Windows.
+% So use copied kaiu.ttf from Windows (Note no bold face support)
+% \setCJKmainfont[Path=./fonts/]{kaiu.ttf}
+\setCJKmainfont{DFKai-SB}
+% \setCJKmainfont{標楷體}
 
 % Your information goes here
 \input{ntuvars}
